@@ -4,8 +4,12 @@
 ## Orator Reader 📣
 Orator fetches articles and blog posts from your favourite RSS feeds and allows you to listen to them like podcasts. You can add your favourite RSS feeds, or you can add individual articles as you go!
 
-![230x0w-_2_](https://github.com/wcgray/Personal-Projects/assets/463018/928a8d25-df9b-4e80-9cea-e0d14b318f2c)
-![230x0w-_3_](https://github.com/wcgray/Personal-Projects/assets/463018/73b69afd-0727-45f2-8da3-2931a13fe673)
+<p align="left">
+<img src="https://github.com/wcgray/Personal-Projects/assets/463018/800a133e-352b-4990-acf6-54eedb680b2e" width="220" height="434" />
+<img src="https://github.com/wcgray/Personal-Projects/assets/463018/2f243497-ec0f-47d8-b1f6-6e85d79a3e99" width="220" height="434" />
+<img src="https://github.com/wcgray/Personal-Projects/assets/463018/928a8d25-df9b-4e80-9cea-e0d14b318f2c" width="220" height="434" />
+<img src="https://github.com/wcgray/Personal-Projects/assets/463018/73b69afd-0727-45f2-8da3-2931a13fe673" width="220" height="434" />
+ </p>
 
 https://apps.apple.com/us/app/orator-reader/id1450778916
 
