@@ -40,11 +40,14 @@ Word Sling combines the arcade action of touch shooting with the casual fun of w
 </p>
 https://apps.apple.com/us/app/word-sling/id580502378
 
-## InnerEase 📖
+## InnerEase 🧘
 
 A minimalistic meditation app without ads, sign-ups, or upsells.
 
 <p align="left">
+![Group 11](https://github.com/user-attachments/assets/a5e068a8-0147-4f39-bfd8-98dc52467e14)
+![Group 12](https://github.com/user-attachments/assets/593d2a45-82fa-4d69-8c27-42140a306e36)
+![Group 13](https://github.com/user-attachments/assets/63427945-c462-4828-9276-1ee321d960db)
 </p>
 
 https://apps.apple.com/us/app/innerease/id6670314528
