@@ -45,7 +45,9 @@ https://apps.apple.com/us/app/word-sling/id580502378
 A minimalistic meditation app without ads, sign-ups, or upsells.
 
 <p align="left">
-<img src="https://github.com/user-attachments/assets/67333791-cdc1-40ba-856f-5848439bb65f" width="220" height="434" />
+<img src="https://github.com/user-attachments/assets/da270c41-7ac3-47b6-aecb-62a2e7aa7261" width="220" height="434" />
+<img src="https://github.com/user-attachments/assets/a794adfc-08e2-47f1-854f-2fcc91dd7d66" width="220" height="434" />
+<img src="https://github.com/user-attachments/assets/751cee09-f794-4476-b614-74a4b00e56dc" width="220" height="434" />
 </p>
 
 https://apps.apple.com/us/app/innerease/id6670314528
