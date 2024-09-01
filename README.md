@@ -40,6 +40,15 @@ Word Sling combines the arcade action of touch shooting with the casual fun of w
 </p>
 https://apps.apple.com/us/app/word-sling/id580502378
 
+## InnerEase 📖
+
+A minimalistic meditation app without ads, sign-ups, or upsells.
+
+<p align="left">
+</p>
+
+https://apps.apple.com/us/app/innerease/id6670314528
+
 ## Rhyme Magic 📖
 
 An Ad-Free English Rhyme Dictionary that works offline and allows adjustable near rhymes expanded search.
