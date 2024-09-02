@@ -1,5 +1,5 @@
 
-### 👋 Hey! I'm a Developer from Toronto. Here are a few of my personal projects:
+### 👋 Hey! My name is Campbell Gray, I'm a Developer from Toronto. Here are a few of my personal projects:
 
 ## Orator Reader 📣
 Orator fetches articles and blog posts from your favourite RSS feeds and allows you to listen to them like podcasts. You can add your favourite RSS feeds, or you can add individual articles as you go!
